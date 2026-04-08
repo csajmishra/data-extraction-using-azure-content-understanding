@@ -10,7 +10,7 @@ azure-storage-blob~=12.24.0
 azure-identity~=1.19.0
 azure-ai-documentintelligence==1.0.0
 
-# Additional packages
+# Additional packages V2
 cryptography==44.0.1
 semantic-kernel==1.22.0
 semantic-kernel[azure]==1.22.0
